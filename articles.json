@@ -1,0 +1,689 @@
+{
+  "departments": [
+    {
+      "name": "Clothing",
+      "categories": [
+        {
+          "name": "Mens",
+          "articles": [
+            {
+              "name": "T-Shirt",
+              "price": 800
+            },
+            {
+              "name": "Shirt",
+              "price": 1500
+            },
+            {
+              "name": "Pants",
+              "price": 900
+            },
+            {
+              "name": "Jeans",
+              "price": 800
+            },
+            {
+              "name": "Lunki",
+              "price": 600
+            }
+          ]
+        },
+        {
+          "name": "Womens",
+          "articles": [
+            {
+              "name": "T-Shirt",
+              "price": 700
+            },
+            {
+              "name": "Jeans",
+              "price": 800
+            },
+            {
+              "name": "Skirt",
+              "price": 500
+            },
+            {
+              "name": "Salwaar Kamees",
+              "price": 1000
+            },
+            {
+              "name": "Sarees",
+              "price": 1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bakery",
+      "categories": [
+        {
+          "name": "Biscuits",
+          "articles": [
+            {
+              "name": "Hide and Seek",
+              "price": 25
+            },
+            {
+              "name": "Bourbon",
+              "price": 30
+            },
+            {
+              "name": "Good Day",
+              "price": 20
+            },
+            {
+              "name": "Oreo",
+              "price": 25
+            },
+            {
+              "name": "Parle-G",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "name": "Cakes",
+          "articles": [
+            {
+              "name": "Tea Cake",
+              "price": 150
+            },
+            {
+              "name": "Marble Cake",
+              "price": 220
+            },
+            {
+              "name": "Plum Cake",
+              "price": 250
+            }
+          ]
+        },
+        {
+          "name": "Pastry",
+          "articles": [
+            {
+              "name": "Black Forest",
+              "price": 60
+            },
+            {
+              "name": "Chocolate coated",
+              "price": 50
+            },
+            {
+              "name": "Red Velvet",
+              "price": 60
+            },
+            {
+              "name": "Cornolli",
+              "price": 40
+            },
+            {
+              "name": "Honey Dipped",
+              "price": 55
+            }
+          ]
+        },
+        {
+          "name": "Ice Cream",
+          "articles": [
+            {
+              "name": "Vanilla",
+              "price": 60
+            },
+            {
+              "name": "Chocolate",
+              "price": 70
+            },
+            {
+              "name": "Butterscotch",
+              "price": 60
+            },
+            {
+              "name": "Strawberry",
+              "price": 50
+            },
+            {
+              "name": "Mini Faluda",
+              "price": 80
+            }
+          ]
+        },
+        {
+          "name": "Donuts",
+          "articles": [
+            {
+              "name": "Glazed",
+              "price": 70
+            },
+            {
+              "name": "Sugar Coated",
+              "price": 85
+            },
+            {
+              "name": "Nutty Chocolate",
+              "price": 100
+            },
+            {
+              "name": "Oreo crumbed",
+              "price": 90
+            },
+            {
+              "name": "Caramel Bacon",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "name": "Sandwiches",
+          "articles": [
+            {
+              "name": "Egg",
+              "price": 60
+            },
+            {
+              "name": "Veg",
+              "price": 55
+            },
+            {
+              "name": "Chicken",
+              "price": 70
+            },
+            {
+              "name": "Mutton",
+              "price": 85
+            }
+          ]
+        },
+        {
+          "name": "Burgers",
+          "articles": [
+            {
+              "name": "Veg",
+              "price": 65
+            },
+            {
+              "name": "Chicken",
+              "price": 80
+            },
+            {
+              "name": "Mutton",
+              "price": 90
+            }
+          ]
+        },
+        {
+          "name": "Hot Beverages",
+          "articles": [
+            {
+              "name": "CCD-Cappuccino",
+              "price": 80
+            },
+            {
+              "name": "CCD-Espresso",
+              "price": 70
+            },
+            {
+              "name": "Filter coffee",
+              "price": 30
+            },
+            {
+              "name": "Decaf",
+              "price": 40
+            },
+            {
+              "name": "Regular Tea",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "name": "Soft Drinks",
+          "articles": [
+            {
+              "name": "Fanta",
+              "price": 25
+            },
+            {
+              "name": "Mirinda",
+              "price": 20
+            },
+            {
+              "name": "Sprite",
+              "price": 25
+            },
+            {
+              "name": "Pepsi",
+              "price": 25
+            },
+            {
+              "name": "Coca Cola",
+              "price": 30
+            }
+          ]
+        },
+        {
+          "name": "Chips",
+          "articles": [
+            {
+              "name": "Lays - Red",
+              "price": 20
+            },
+            {
+              "name": "Lays - Green",
+              "price": 20
+            },
+            {
+              "name": "Kurkure",
+              "price": 25
+            },
+            {
+              "name": "Puffcorn",
+              "price": 30
+            },
+            {
+              "name": "Regular chips",
+              "price": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stationery",
+      "categories": [
+        {
+          "name": "Pens - Blue",
+          "articles": [
+            {
+              "name": "Rorito TeraMax",
+              "price": 40
+            },
+            {
+              "name": "Parker Vector",
+              "price": 475
+            },
+            {
+              "name": "Parker Jotter",
+              "price": 350
+            },
+            {
+              "name": "Parker Beta",
+              "price": 250
+            },
+            {
+              "name": "Rorito Flymax",
+              "price": 20
+            },
+            {
+              "name": "Linc Executive",
+              "price": 15
+            },
+            {
+              "name": "TechnoTip",
+              "price": 15
+            },
+            {
+              "name": "Octane",
+              "price": 25
+            },
+            {
+              "name": "Pilot Frixion",
+              "price": 100
+            },
+            {
+              "name": "Pilot Luxor",
+              "price": 60
+            }
+          ]
+        },
+        {
+          "name": "Pens - Black",
+          "articles": [
+            {
+              "name": "Rorito TeraMax",
+              "price": 40
+            },
+            {
+              "name": "Parker Vector",
+              "price": 475
+            },
+            {
+              "name": "Parker Jotter",
+              "price": 350
+            },
+            {
+              "name": "Parker Beta",
+              "price": 250
+            },
+            {
+              "name": "Rorito Flymax",
+              "price": 20
+            },
+            {
+              "name": "Linc Executive",
+              "price": 15
+            },
+            {
+              "name": "TechnoTip",
+              "price": 15
+            },
+            {
+              "name": "Octane",
+              "price": 25
+            },
+            {
+              "name": "Pilot Frixion",
+              "price": 100
+            },
+            {
+              "name": "Pilot Luxor",
+              "price": 60
+            }
+          ]
+        },
+        {
+          "name": "Highlighters & Markers",
+          "articles": [
+            {
+              "name": "White Board Marker",
+              "price": 30
+            },
+            {
+              "name": "Permanent Marker",
+              "price": 35
+            },
+            {
+              "name": "Highlighters",
+              "price": 25
+            },
+            {
+              "name": "Sketch Pen",
+              "price": 25
+            },
+            {
+              "name": "Marker Ink",
+              "price": 40
+            }
+          ]
+        },
+        {
+          "name": "NotePads & Books",
+          "articles": [
+            {
+              "name": "Sticky Notes",
+              "price": 25
+            },
+            {
+              "name": "Highlighter Flags",
+              "price": 20
+            },
+            {
+              "name": "School Notebook",
+              "price": 30
+            },
+            {
+              "name": "Calculator",
+              "price": 450
+            },
+            {
+              "name": "Long Notebook",
+              "price": 40
+            },
+            {
+              "name": "Spiral Writing Pad",
+              "price": 50
+            },
+            {
+              "name": "Register",
+              "price": 35
+            },
+            {
+              "name": "NotePad",
+              "price": 45
+            },
+            {
+              "name": "Stamp Pads",
+              "price": 30
+            },
+            {
+              "name": "Graph Books",
+              "price": 35
+            }
+          ]
+        },
+        {
+          "name": "Files & Folders",
+          "articles": [
+            {
+              "name": "Clip File",
+              "price": 60
+            },
+            {
+              "name": "Display Files",
+              "price": 80
+            },
+            {
+              "name": "Ring Binder",
+              "price": 100 
+            },
+            {
+              "name": "File Separators",
+              "price": 25
+            },
+            {
+              "name": "Push Pins",
+              "price": 40
+            }
+          ]
+        },
+        {
+          "name": "Scissors & Cutters",
+          "articles": [
+            {
+              "name": "Scissor",
+              "price": 90
+            },
+            {
+              "name": "Stapler",
+              "price": 120
+            },
+            {
+              "name": "Stapler Pins",
+              "price": 80
+            },
+            {
+              "name": "Pin Holder",
+              "price": 30
+            },
+            {
+              "name": "Punch",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "name": "Adhesives & Tapes",
+          "articles": [
+            {
+              "name": "Transparent Tape",
+              "price": 30
+            },
+            {
+              "name": "Brown Tape",
+              "price": 40
+            },
+            {
+              "name": "Tape Dispenser",
+              "price": 70 
+            },
+            {
+              "name": "Glue Stick",
+              "price": 25
+            },
+            {
+              "name": "Reusable Glue",
+              "price": 45
+            },
+            {
+              "name": "FeviQuick",
+              "price": 25
+            },
+            {
+              "name": "FeviCol",
+              "price": 60
+            },
+            {
+              "name": "Fabric Glue",
+              "price": 100 
+            },
+            {
+              "name": "Easy-Tear Tape",
+              "price": 50
+            },
+            {
+              "name": "Glue Tube",
+              "price": 40
+            }
+          ]
+        },
+        {
+          "name": "Art & Craft",
+          "articles": [
+            {
+              "name": "Craft Paper",
+              "price": 25
+            },
+            {
+              "name": "Poster Colours",
+              "price": 50
+            },
+            {
+              "name": "Acrylic Colours",
+              "price": 60  
+            },
+            {
+              "name": "Painting Brush",
+              "price": 35
+            },
+            {
+              "name": "Colour Pencils",
+              "price": 60
+            },
+            {
+              "name": "Stencils",
+              "price": 45
+            },
+            {
+              "name": "Modelling Clay",
+              "price": 125
+            },
+            {
+              "name": "Oil Pastels",
+              "price": 80
+            },
+            {
+              "name": "Canvas",
+              "price": 150
+            },
+            {
+              "name": "Canvas Stand",
+              "price": 400
+            }
+          ]
+        },
+        {
+          "name": "School Supplies",
+          "articles": [
+            {
+              "name": "Examination Pad",
+              "price": 90
+            },
+            {
+              "name": "Geometry Box",
+              "price": 150
+            },
+            {
+              "name": "Pencil Pouch",
+              "price": 200
+            },
+            {
+              "name": "Water Bottle",
+              "price": 300
+            },
+            {
+              "name": "Tiffin Box",
+              "price": 450
+            }
+          ]
+        },
+        {
+          "name": "Others",
+          "articles": [
+            {
+              "name": "Correction Pen",
+              "price": 35
+            },
+            {
+              "name": "TeraMax - Refill",
+              "price": 25
+            },
+            {
+              "name": "Parker - RollerBall",
+              "price": 75 
+            },
+            {
+              "name": "Parker - BallPoint",
+              "price": 60
+            },
+            {
+              "name": "Eraser",
+              "price": 10
+            },
+            {
+              "name": "Sharpner",
+              "price": 10
+            },
+            {
+              "name": "Ruler - 15cm",
+              "price": 15
+            },
+            {
+              "name": "Ruler - 30cm",
+              "price": 20
+            },
+            {
+              "name": "Visiting Cardholder",
+              "price": 120
+            },
+            {
+              "name": "Glitter Pens",
+              "price": 20
+            },
+            {
+              "name": "Parker - Ink Bottle",
+              "price": 100
+            },
+            {
+              "name": "Pencil Pack",
+              "price": 40
+            },
+            {
+              "name": "Mechanical Pencil",
+              "price": 35
+            },
+            {
+              "name": "Pencil Leads (0.5)",
+              "price": 20
+            },
+            {
+              "name": "Pencil Leads (0.7)",
+              "price": 25
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
